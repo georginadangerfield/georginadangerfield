@@ -1,5 +1,5 @@
 ### Hi, I'm Georgina 👋
 
-Three years into my data science journey. Every day is a learning curve!
+Four years into my data science journey. Every day is a learning curve!
 
-Avid lover of cats and podcasts.
+Avid lover of cats and podcasts. I also go running sometimes, from what I'm not too sure.
